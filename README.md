@@ -16,5 +16,5 @@ https://gitee.com/ift123/iFreeTimeBookConfigs
 用**获取书源配置**就可以获取所有的书源了。
 
 ## 导入相关图片
-![](/files/synGit.PNG)
+![](main-01/files/synGit.PNG)
 
