@@ -1,6 +1,4 @@
-# 书源配置导入说明
-需要先安装爱阅书香6.8.1版本
-然后在**爱阅书香**书架上的**书源配置**界面上打开**同步功能**。在里面加入本项目地址
+# 书源配置
 ```
 https://github.com/litao3113/bookread/tree/main/main-01
 https://github.com/litao3113/bookread/tree/main/main-02
@@ -16,6 +14,6 @@ https://github.com/litao3113/bookread/tree/main/main-11
 https://github.com/litao3113/bookread/tree/main/main-12
 https://github.com/litao3113/bookread/tree/main/main-X
 ```
-用**获取书源配置**就可以获取所有的书源了。
+
 
 
