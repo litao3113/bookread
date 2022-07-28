@@ -14,6 +14,7 @@ https://github.com/litao3113/bookread/tree/main/main-09
 https://github.com/litao3113/bookread/tree/main/main-10
 https://github.com/litao3113/bookread/tree/main/main-11
 https://github.com/litao3113/bookread/tree/main/main-12
+https://github.com/litao3113/bookread/tree/main/mainX
 ```
 用**获取书源配置**就可以获取所有的书源了。
 
